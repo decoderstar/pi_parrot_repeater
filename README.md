@@ -5,7 +5,7 @@ Once a short period of silence is detected (Transmission ceased) it will replay 
 
 Each transmission will be logged by a recording and spectral image of the audio itself.
 
-Created for use with the raspberry pi and baofeng through a USB audio card but can be used on any Linux based machine.
+Created for use with the raspberry pi and a baofeng type transceiver through a USB audio card but can be used on any Linux based machine.
 
 
 Installation instructions
